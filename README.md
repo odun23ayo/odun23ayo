@@ -1,14 +1,13 @@
-
 Welcome to my GitHub profile! I'm passionate about technology, coding, and bringing ideas to life through software. 🚀
-
 ## 🌟 About Me
 - 💻 **Software Developer**: I love building innovative and scalable solutions.
 - 🌱 **Currently Learning**: Improving my skills in [insert your current learning focus, e.g., AI, cloud computing, etc.].
 - 🎯 **Goals for 2025**: [List your goals, e.g., Contribute to open-source, learn Docker, etc.].
-- 💬 **Ask Me About**: [Topics you're knowledgeable about, e.g., JavaScript, Python, web development, etc.].
+- 💬 **Ask Me About**: [Topics you're knowledgeable about, e.g., JavaScript, css, web development, etc.].
 
 ## 🔧 Technologies & Tools
-- **Languages**: [List programming languages you know, e.g., JavaScript, Python, C++].
+- **Languages**: [List programming languages you know, e.g., JavaScript, html, Css].![A_modern_and_professional_logo_for_a_diabetes-rela](https://github.com/user-attachments/assets/886eb673-46ff-45ef-b924-6d8b4bf057d0)
+
 - **Frameworks**: [Include frameworks you're proficient with, e.g., React, Django, etc.].
 - **Tools**: [Mention tools like Git, Docker, etc.].
 - **Other Skills**: [e.g., Database management, cloud services, etc.].
@@ -18,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and bring
 
 ## 🛠️ Projects
 Here are some of my favorite projects:
-- [**Mariamportfolio**](#): It is a page which gives awareness on diabetes .
+- [**Mariamportfolio**](#): It is a page which gives awareness on diabetes .[A_modern_and_professional_logo_for_a_diabetes-rela](https://github.com/user-attachments/assets/886eb673-46ff-45ef-b924-6d8b4bf057d0)
 - [**Another Project**](#): Brief description of another project.
 
 ## 🌍 Let's Connect!
