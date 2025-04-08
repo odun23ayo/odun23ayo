@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and bring
 
 ## 🛠️ Projects
 Here are some of my favorite projects:
-- [**Project Name**](#): Brief description of the project.
+- [**Mariamportfolio**](#): It is a page which gives awareness on diabetes .
 - [**Another Project**](#): Brief description of another project.
 
 ## 🌍 Let's Connect!
 - 🌐 [Portfolio](#): Your portfolio link.
-- 💼 [LinkedIn](#): Your LinkedIn profile link.
-- 🐦 [Twitter](#): Your Twitter handle.
+- 💼 [Tiktok](#):Lilmimi_auntylepa. 
+- 🐦 [Twitter](#):
 
 ---
 
